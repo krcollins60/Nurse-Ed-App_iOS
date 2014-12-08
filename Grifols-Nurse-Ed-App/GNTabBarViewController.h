@@ -1,0 +1,4 @@
+
+@interface GNTabBarViewController : UITabBarController
+
+@end

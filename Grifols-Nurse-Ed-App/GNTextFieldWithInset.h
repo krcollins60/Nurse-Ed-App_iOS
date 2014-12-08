@@ -1,0 +1,4 @@
+
+@interface GNTextFieldWithInset : UITextField
+
+@end
